@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "These actors and movies have the most BAFTA wins and nominations ever",
+            "description": "See which actors, movies, and directors hold records for the most BAFTA wins and nominations in history.",
+            "url": "https://ew.com/bafta-awards-most-wins-nominations-ever-8574992",
+            "urlToImage": "https://ew.com/thmb/uK1U5Bc_eqDs9sOo83v6uTXLKcQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/baftas-big-gallery-tout-021324-ff8e062027d644409eb471e57a2fb6dd.jpg",
+            "publishedAt": "2024-02-14T17:07:18.0740591Z",
+            "content": "The British Academy of Film and Television Arts Awards, better known as the BAFTAs, were first held in 1949, and only had two categories in the ceremony's inaugural year: Best British Picture, which … [+15355 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "Mariella Moon",
+            "title": "A piracy app outranked Netflix on the App Store before Apple pulled it",
+            "description": "Kimi was disguised as an app that tests your eyesight by making you play spot the difference in similar photos, but it actually contained bootlegged movies...",
+            "url": "https://www.engadget.com/a-piracy-app-outranked-netflix-on-the-app-store-before-apple-pulled-it-132013246.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/B_5NZ4OOwbR4X3iugNkyNQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/5ef04160-cb2b-11ee-bfff-dde90db64e93",
+            "publishedAt": "2024-02-14T13:20:13Z",
+            "content": "Over the past week, there was an app called Kimi that curiously outranked well-known streaming services, such as Netflix and Prime Video, in the list of top free entertainment apps for iOS. Now, Appl… [+1655 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Sarah Moss",
+            "title": "Romance on Valentine's Day? The Old Boys say some do, some don't but respect is key",
+            "description": "Taking it slow and sneaking \"a few kisses in a parked car after the movies\" worked for these couples. Here are some of their secrets to making love last.",
+            "url": "https://www.abc.net.au/news/2024-02-14/valentines-day-old-boys-social-club-advice-to-make-love-last/103455100",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/6037c3d7cbc39e448f76ad4537a60900?impolicy=wcms_crop_resize&cropH=2075&cropW=3690&xPos=493&yPos=702&width=862&height=485",
+            "publishedAt": "2024-02-14T02:08:11Z",
+            "content": "Jeff and Agnus Lawler have been married for 68 years and don't celebrate Valentine's Day, while John Bay married his sweetheart 42 years ago and it's an occasion he and his wife always marked.\r\nWhile… [+4201 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Apple Pulls Popular Movie Piracy App Kimi From the App Store",
+            "description": "Before it disappeared on Tuesday, Kimi enabled iPhone owners to stream illegal bootlegs of popular movies like \"Barbie\" and \"Oppenheimer.\"",
+            "url": "https://www.wired.com/story/apple-app-store-kimi-piracy-movies",
+            "urlToImage": "https://media.wired.com/photos/65cb9b5f704876c3b29ba8e6/191:100/w_1280,c_limit/Apple-Removes-Piracy-App-Culture-GettyImages-1668909401.jpg",
+            "publishedAt": "2024-02-13T18:53:22Z",
+            "content": "Watching pirated movies on your iPhone just got a little harder. After climbing the charts of Apples App Store, the trendy Kimi app, with its collection of bootlegged movies, has just disappeared. Pr… [+2593 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Collier Jennings",
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z",
+            "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+        }
+    ]
+}
